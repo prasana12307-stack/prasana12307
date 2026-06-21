@@ -34,16 +34,16 @@ HTML | CSS | JavaScript | React | Node.js | Git | GitHub
 <h2>🎓 Education</h2>
 
 <p>
-Bachelor of Technology (B.Tech)<br>
+Bachelor of Engineering (B.E)<br>
 Computer Science / Related Field
 </p>
 
 <h2>📫 Contact</h2>
 
 <p>
-Email: your.email@example.com<br>
-LinkedIn: https://linkedin.com/in/yourprofile<br>
-GitHub: https://github.com/yourusername
+Email: prasana12307@gmail.com<br>
+LinkedIn: https://linkedin.prasanakumars.come<br>
+GitHub: https://prasanakumar12307stackgithub.com
 </p>
 
 <h2>⚡ Fun Fact</h2>
